@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\estoques\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\estoques\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|c:\\users\\w10\\desktop\\aspmvc\\lojafemme\\lojafemme\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7005A333-586B-4984-92D3-F0CE7DD0430A}|LojaFemme\\LojaFemme.csproj|solutionrelative:lojafemme\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Estoques\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Estoques\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Estoques\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Estoques\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:39:15.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:38:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:38:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:37:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:36:30.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LojaFemme\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T23:25:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LojaFemme\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LojaFemme\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T23:20:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:03:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LojaFemme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\AspMVC\\LojaFemme\\LojaFemme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LojaFemme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:01:21.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
